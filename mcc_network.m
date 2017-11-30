@@ -8,7 +8,7 @@ function [A, k, ell] = mcc_network(n,m)
 %   complement graph (which is also the maximum connected component size in
 %   the complement).
 %
-% [Last modified by Takashi Nishikawa on 11/29/2017]
+% Copyright (c) 2017 Takashi Nishikawa
 
 ell = nan;
 m_min = n - 1;

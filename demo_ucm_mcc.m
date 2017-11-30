@@ -1,4 +1,6 @@
 % Generates the adjacency matrices of a UCM network and an MCC network.
+%
+% Copyright (c) 2017 Takashi Nishikawa
 
 % UCM network
 k = 4; ell = 5;

@@ -1,5 +1,7 @@
 function k = k_nm(n,m)
 % Computes the number k_{n,m} for a given n and m.
+%
+% Copyright (c) 2017 Takashi Nishikawa
 
 if ~isscalar(n)
     error('n must be a scalar')

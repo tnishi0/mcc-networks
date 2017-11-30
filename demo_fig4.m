@@ -1,4 +1,6 @@
 % Generates the plots for MCC networks in Fig. 4.
+%
+% Copyright (c) 2017 Takashi Nishikawa
 
 clf
 n = 50;
