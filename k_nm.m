@@ -1,6 +1,13 @@
 function k = k_nm(n,m)
 % Computes the number k_{n,m} for a given n and m.
 %
+% Reference:
+%
+%  T. Nishikawa, J. Sun, and A. E. Motter
+%  Sensitive Dependence of Optimal Network Dynamics on Network Structure
+%  Physical Review X 7, 041044 (2017)
+%  DOI: 10.1103/PhysRevX.7.041044
+%
 % Copyright (c) 2017 Takashi Nishikawa
 
 if ~isscalar(n)
