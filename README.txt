@@ -2,7 +2,14 @@
  Algorithms for generating MCC and UCM networks
 ================================================
 
-This is a MATLAB implementation of the algorithm described in our publication (to appear in Physical Review X). The following files are included:
+This is a MATLAB implementation of the algorithm described in the following publication:
+
+ T. Nishikawa, J. Sun, and A. E. Motter
+ Sensitive Dependence of Optimal Network Dynamics on Network Structure
+ Physical Review X 7, 041044 (2017)
+ DOI: 10.1103/PhysRevX.7.041044
+
+The following files are included:
 
 - M_nk.m: The function M(n,k) defined in the paper.
 - k_nm.m: The number k_{n,m} defined in the paper.
