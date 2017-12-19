@@ -8,6 +8,13 @@ function [A, k, ell] = mcc_network(n,m)
 %   complement graph (which is also the maximum connected component size in
 %   the complement).
 %
+% Reference:
+%
+%  T. Nishikawa, J. Sun, and A. E. Motter
+%  Sensitive Dependence of Optimal Network Dynamics on Network Structure
+%  Physical Review X 7, 041044 (2017)
+%  DOI: 10.1103/PhysRevX.7.041044
+%
 % Copyright (c) 2017 Takashi Nishikawa
 
 ell = nan;
