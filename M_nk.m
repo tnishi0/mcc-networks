@@ -1,5 +1,10 @@
 function M = M_nk(n,k)
-% Computes the value of the function M(n,k) in the paper.
+% Computes the value of the function M(n,k), as defined in the following paper:
+%
+%  T. Nishikawa, J. Sun, and A. E. Motter
+%  Sensitive Dependence of Optimal Network Dynamics on Network Structure
+%  Physical Review X 7, 041044 (2017)
+%  DOI: 10.1103/PhysRevX.7.041044
 %
 % Copyright (c) 2017 Takashi Nishikawa
 
