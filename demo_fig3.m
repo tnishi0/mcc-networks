@@ -1,5 +1,12 @@
 % Generates the plot for MCC networks in Fig. 3.
 %
+% Reference:
+%
+%  T. Nishikawa, J. Sun, and A. E. Motter
+%  Sensitive Dependence of Optimal Network Dynamics on Network Structure
+%  Physical Review X 7, 041044 (2017)
+%  DOI: 10.1103/PhysRevX.7.041044
+%
 % Copyright (c) 2017 Takashi Nishikawa
 
 clf
